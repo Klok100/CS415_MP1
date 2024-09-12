@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_PlayerHUD.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/lambert1.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel1.uasset",
+				"C:/Users/klokn/Documents/UIUC/Fall 2024/CS 415/MP 1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPackSpawner.uasset"
+			]
+		}
+	]
+}
